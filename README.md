@@ -1,5 +1,5 @@
 # German Traffic Sign Recognition Benchmark (GTSRB)
-### Data Science 420 @ Luther College (2020)
+### DS-420 Luther College
 Machine Learning with Convolutional Neural Networks (CNN) in the AlexNet and LeNet Architecutre
 
 
