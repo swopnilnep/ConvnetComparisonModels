@@ -11,7 +11,8 @@ In this project, we will be using the popular image classification deep learning
 
 *Overview*
 * Training Data: 39210 rows
-* Test Data: 12631 rows Meta Data: 44 rows Total Data​ 51,885 ​rows
+* Test Data: 12631 rows Meta Data: 44 rows 
+* Total Data​ 51,885 ​rows
 
 *Structure*
 * The training set archive is structured as follows:
