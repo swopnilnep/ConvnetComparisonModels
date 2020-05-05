@@ -5,7 +5,7 @@ Machine Learning with Convolutional Neural Networks (CNN) in the AlexNet and LeN
 ## Motivation
 In this project, we will be using the popular image classification deep learning dataset German Traffic Signal Recognition Benchmark (GTRSB) dataset, comparing two of the earliest convolutional neural network architectures (LeNet, AlexNet) comparing strengths, process and implementation. We will be classifying more than 50,000 images into 43 class-fields using a convnet.
 
-## Data Information
+## Data
 In this project, we will be using the popular image classification deep learning dataset German Traffic Signal Recognition Benchmark (GTRSB) dataset, comparing two of the earliest convolutional neural network architectures (LeNet, AlexNet) comparing strengths, process and implementation. We will be classifying more than 50,000 images into 43 class-fields using a convnet.
 
 Overview
